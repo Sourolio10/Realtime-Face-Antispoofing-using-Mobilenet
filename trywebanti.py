@@ -61,7 +61,7 @@ while(vid.isOpened()):
             image = image.reshape(1, 96, 96, 3)
             
             # Load the pre-trained model
-            model = keras.models.load_model('antispoofmobilenet2.h5')
+            model = keras.models.load_model('antispoofmobilenet22.h5')
             
             # Make predictions using the model
             pred = model.predict(image[:][:])
