@@ -61,4 +61,4 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 - [Haar Cascade Classifier](https://docs.opencv.org/4.5.4/d7/d8b/tutorial_py_face_detection.html) for face detection.
 
 ## Output:
-![alt text](https://github.com/Sourolio10/Realtime-Face-Antispoofing-using-Mobilenet/blob/main/1616342877373.jpg)
+![alt text](https://github.com/Sourolio10/Realtime-Face-Antispoofing-using-Mobilenet/blob/main/16163428773753.jpg)
